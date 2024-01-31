@@ -29,6 +29,7 @@ public class Main {
         diagonalSum(arr);
         sumLeft(arr);
         count(arr, 5);
+        unique(arr);
     }
     public static void sum(int[][] ar){
         int sum = 0;
